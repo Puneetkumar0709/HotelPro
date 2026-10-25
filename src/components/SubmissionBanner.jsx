@@ -1,3 +1,4 @@
+import React, { useState } from 'react';
 import { ExternalLink, CheckCircle2, Copy, Sparkles, ShieldCheck, Key, GitBranch } from 'lucide-react';
 
 export const SubmissionBanner = ({ onOpenJwtModal, onOpenDemoInfo }) => {
