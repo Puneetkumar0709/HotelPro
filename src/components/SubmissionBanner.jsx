@@ -4,7 +4,7 @@ import { ExternalLink, CheckCircle2, Copy, Sparkles, ShieldCheck, Key, GitBranch
 export const SubmissionBanner = ({ onOpenJwtModal, onOpenDemoInfo }) => {
   const [copied, setCopied] = useState(false);
 
-  const githubUrl = 'https://github.com/PuneetKumar0729/hotelpro-management-system';
+  const githubUrl = 'https://github.com/Puneetkumar0709/HotelPro';
   const demoUrl = window.location.origin;
 
   const copySubmissionText = () => {

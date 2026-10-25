@@ -3,8 +3,8 @@
 > **NASSCOM FutureSkills / Industry Project Evaluation**  
 > **Domain:** Hospitality  
 > **Type:** Individual Project  
-> **Developer:** Puneet Kumar ([@PuneetKumar0729](https://github.com/PuneetKumar0729))  
-> **GitHub Repository:** [https://github.com/PuneetKumar0729/hotelpro-management-system](https://github.com/PuneetKumar0729/hotelpro-management-system)  
+> **Developer:** Puneet Kumar ([@Puneetkumar0709](https://github.com/Puneetkumar0709))  
+> **GitHub Repository:** [https://github.com/Puneetkumar0709/HotelPro](https://github.com/Puneetkumar0709/HotelPro)  
 > **Live Demo Link:** `http://localhost:5174` (or deployed Netlify / Vercel URL)
 
 ---
@@ -27,7 +27,7 @@ Built to satisfy all enterprise requirements and technologies prescribed in the 
 
 | Resource | Link / Details |
 | :--- | :--- |
-| **GitHub Repository** | `https://github.com/PuneetKumar0729/hotelpro-management-system` |
+| **GitHub Repository** | `https://github.com/Puneetkumar0709/HotelPro` |
 | **Live Web Application Demo** | `http://localhost:5174` (or Vercel / Netlify deployment) |
 | **Backend REST API** | `http://localhost:5000/api` |
 | **API Health Check** | `http://localhost:5000/api/health` |
@@ -131,8 +131,8 @@ graph TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/PuneetKumar0729/hotelpro-management-system.git
-cd hotelpro-management-system
+git clone https://github.com/Puneetkumar0709/HotelPro.git
+cd HotelPro
 ```
 
 ### 2. Install Dependencies
